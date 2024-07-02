@@ -1,0 +1,77 @@
+*{
+    color: white;
+    font-family: monospace;
+    text-transform: uppercase;
+    font-size: x-large;
+    margin-bottom: 5px;
+}
+
+#header{
+    background-color: rgb(133, 56, 82);
+    height: 70px;
+    padding: 5px;
+    padding-left: 30px;
+}
+#menu{
+    background-color: rgb(105, 28, 54);
+    height: 50px;
+    padding: 5px;
+    padding-left: 30px;
+}
+.aside_left{
+    display: flex;
+    flex-direction: column;
+    width: 250px
+}
+
+.aside_left1{
+    background-color: rgb(146, 61, 89);
+    color: white;
+    padding: 20px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+.aside_left2{
+    background-color: rgb(146, 61, 89);
+    color: white;
+    padding: 20px;
+    margin-bottom: 10px;
+    text-align: center;
+    height: 150px;
+}
+#aside_right{
+    background-color: rgb(146, 61, 89);
+    float: right;
+    height: 250px;
+    width: 100px;
+    text-align: center;
+}
+#content{
+    background-color: rgb(146, 61, 89);
+    padding:20px;
+    padding-left:50px;
+    width: 70%;
+    height: 39=80px;
+    box-sizing: border-box;
+
+
+}
+.main {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    box-sizing: border-box;
+}
+.section{
+    background-color: #d07090;
+    margin-bottom: 10px;
+    padding: 20px;
+    height: 90px;
+    padding-left: 40px;
+}
+#footer{
+    background-color: rgb(105, 28, 54);
+    height: 50px;
+    padding: 5px;
+    padding-left: 30px;
+}

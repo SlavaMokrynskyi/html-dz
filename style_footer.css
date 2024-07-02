@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(19, 53, 92);
+    color: rgb(207, 207, 207);
+}
+.FaceBook{
+    display: inline-block;
+    background-image: url(/dz2/img/FaceBook_icon_gray.png)
+}
+.FaceBook:hover{
+    background-image: url(/dz2/img/FaceBook_icon.png)
+}
+.YouTube{
+    display: inline-block;
+    background-image: url(/dz2/img/Yt_icon_gray.png)
+}
+.YouTube:hover{
+    background-image: url(/dz2/img/Yt_icon.png)
+}
+.Instagram{
+    display: inline-block;
+    background-image: url(/dz2/img/INST_icon_gray.png)
+}
+.Instagram:hover{
+    background-image: url(/dz2/img/INST_icon.png)
+}
+.inline{
+    display: inline-block;
+    margin-right: 100px;
+    margin-left: 100px;
+}
+.unhr{
+    text-align: center;
+}
+.medias{
+    display: inline-block;
+    margin-top: 10;
+}
